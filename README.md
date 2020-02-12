@@ -2,6 +2,7 @@
 | Alter  | Reference|
 | ------------- |------------- |
 | [Henry Bonham-Carter](https://github.com/altealo/HenryBonhamCarter/blob/master/README.md)  |[Bostridge, M. *Florence Nightingale: The woman and her legend.*](https://books.google.co.uk/books?id=OsCiBgAAQBAJ&lpg=PR334&pg=PP1#v=onepage&q&f=false)|
+| [Arthur Hugh Clough](https://github.com/altealo/ArthurHughClough/blob/master/README.md)|[Bostridge, M. *Florence Nightingale: The woman and her legend.*](https://books.google.co.uk/books?id=OsCiBgAAQBAJ&lpg=PR334&pg=PP1#v=onepage&q&f=false)|
 | [Dr William Farr](https://github.com/altealo/WilliamFarr/blob/master/README.md)  |[McDonald, L. *Florence Nightingale: An Introduction to Her Life and Family.*](https://books.google.co.uk/books?id=2dJ0CwAAQBAJ)|
 | [Elizabeth Gaskell](https://github.com/altealo/ElizabethGaskell/blob/master/README.md) |[Chapple, J. *Further Letters of Mrs. Gaskell.*](https://books.google.co.uk/books?id=NZaNtFTA6LAC&pg=PA258&lpg=PA258&dq=hilary+bonham+carter+Elizabeth+Gaskell&source=bl&ots=U5_m8SiG8k&sig=ACfU3U37GVYLcYdrCN1gFJJtodC_UJ0fcA&hl=en&sa=X&ved=2ahUKEwj2nafM_IjmAhXHesAKHcGpBTYQ6AEwBHoECAgQAQ#v=onepage&q=hilary%20bonham%20carter%20Elizabeth%20Gaskell&f=false)|
 | [Benjamin Jowett](https://github.com/altealo/BenjaminJowett/blob/master/README.md) |[Bostridge, M. *Florence Nightingale: The woman and her legend.*](https://books.google.co.uk/books?id=OsCiBgAAQBAJ&lpg=PR334&pg=PP1#v=onepage&q&f=false)|
